@@ -1,0 +1,23 @@
+/* 调整引用框内有序列表的样式 */  
+.callout-content ol,  
+.callout-content ul {  
+  margin-bottom: 0.3rem; /* 设置适量的下边距 */  
+  padding-bottom: 0.3rem; /* 避免内容过于紧凑 */  
+}  
+
+/* 调整引用框内正文内容的左边距 */  
+.callout-content {  
+  padding-left: 1rem; /* 设置左边距，15px 可根据实际需求调整 */  
+  overflow: visible !important; /* 防止不需要的滚动条 */  
+  max-height: none !important; /* 去除高度限制 */  
+}  
+
+/* 引用框整体的样式优化 */  
+.callout {  
+  padding: 5px; /* 可根据需要调整内部空隙 */  
+  border: 1px solid var(--background-modifier-border); /* 边框进一步控制 */  
+  border-radius: 8px; /* 使框体更加圆滑 */  
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+

@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "33a1da32642c3941",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7abe3b481fd0dfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f439c652d03b79cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/2025.08/eLLM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "eLLM"
+            }
+          },
+          {
+            "id": "adec9b06def1314e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/2025.08/TuoboRAG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TuoboRAG"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19384d6b7c0197f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7a4568c92cd404",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c106f47d1718efc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4a33912ff79db7fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bc3bd658090832db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "49623c4b413fbdd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f1d5512cda080e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e49a6995e0eafd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "papers/2025.08/TuoboRAG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "TuoboRAG 的反向链接列表"
+            }
+          },
+          {
+            "id": "1e355db62aecab9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025/indexer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "indexer 的出链列表"
+            }
+          },
+          {
+            "id": "43ffbab98f66d296",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "papers/2025.08/TuoboRAG.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "TuoboRAG 的大纲"
+            }
+          },
+          {
+            "id": "6eb7a9e41430dac1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "21fe87adf95ba81d",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "fc2a15d59fb4dfb4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "excalidraw-cn:Create New Excalidraw File": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "c106f47d1718efc7",
+  "lastOpenFiles": [
+    "ideas/2025",
+    "ideas",
+    "papers/2025.08/imgs/Pasted image 20250825000934.png",
+    "papers/2025.08/FlashBack.md",
+    "papers/2025.08/TuoboRAG.md",
+    "papers/2025.08/imgs/Pasted image 20250824234429.png",
+    "papers/2025.08/imgs/Pasted image 20250824234348.png",
+    "papers/2025.08/PRAG(Parametric Retrieval Augmented Generation).md",
+    "papers/2025.08/eLLM.md",
+    "papers/2025.08/imgs/Pasted image 20250824200226.png",
+    "papers/2025.08/CAG.md",
+    "papers/2025.08/imgs/Pasted image 20250824180217.png",
+    "papers/2025.08/imgs/Pasted image 20250824171756.png",
+    "blogs/大纲.md",
+    "README.md",
+    "blogs/新的技术方向.md",
+    "projects",
+    "blogs/从零实现推理引擎系列/从model.generate()开始说起.md",
+    "LICENSE",
+    "blogs/杂记/个人推广网站设计.md",
+    "papers/2025.08/imgs/Pasted image 20250822074515.png",
+    "papers/2025.08/imgs/Pasted image 20250822073342.png",
+    "papers/2025.08/imgs/Pasted image 20250822073023.png",
+    "papers/2025.08/imgs/Pasted image 20250822071945.png",
+    "papers/2025.08/imgs",
+    "papers/2025.08",
+    "blogs/杂记",
+    "blogs/从零实现推理引擎系列/实现多模态缓存.md",
+    "2025/indexer.md",
+    "AI chat in Sider (1).txt",
+    "blogs/推理加速系列",
+    "blogs/从零实现推理引擎系列",
+    "blogs/推理加速系列",
+    "训推/DeepSeek/模型架构及原理研读.md",
+    "训推/DeepSeek/部署文档.md",
+    "训推/Python/叩门篇（语法、用例）.md",
+    "训推/Python/登堂篇（原理、设计）.md",
+    "训推/PyTorch/显存管理原理.md",
+    "训推/SGLang/SGLang原码分析.md",
+    "训推/vLLM/vLLM社区跟进.md",
+    "训推/vLLM/vLLM源码分析.md",
+    "训推/vLLM/vLLM源码分析(v82,新).md",
+    "训推/vLLM/vLLM的分布式架构设计.md",
+    "训推/vLLM/tp.md",
+    "训推/vLLM/FlashAttention.md",
+    "训推/vLLM/注意力引擎.md"
+  ]
+}

@@ -1,0 +1,52 @@
+/* 仅为正文段落中同时加粗且斜体的内容设置上间距 */  
+.markdown-preview-view p strong em,  
+.markdown-preview-view p em strong {  
+    margin-top: 1rem !important; /* 设置上间距为 10px，可根据需要调整 */  
+    display: inline-block !important; /* 确保 margin-top 生效 */  
+}  
+
+/* 为所有标题 H1-H6 添加上间距 */   
+.markdown-preview-view h5,  
+.markdown-preview-view h6 {  
+    margin-top: 2rem; /* 设置上间距为 20px，可根据需要调整 */  
+} 
+
+.markdown-preview-view h1, 
+.markdown-preview-view h2 {
+    margin-top: 3rem;	
+}
+
+.markdown-preview-view h3, 
+.markdown-preview-view h4 {
+    margin-top: 3rem;	
+}
+
+/* 优化图片上下边距 */  
+.markdown-preview-view img {  
+  margin-top: 0.5rem; /* 图片与上文的距离 */  
+  margin-bottom: 0.5rem; /* 图片与下文的距离 */  
+  display: block; /* 保证图片独占一行 */  
+}  
+
+/* 优化表格上下边距 */  
+.markdown-preview-view table {  
+  margin-top: 1rem;  /* 调整表格上方间距 */  
+  margin-bottom: 1rem; /* 调整表格下方间距 */  
+  border-collapse: collapse; /* 移除表格单元格之间的多余空隙 */  
+  width: 100%; /* 表格自动填满内容宽度 */  
+}  
+
+/* 表格边框优化 */  
+.markdown-preview-view table,  
+.markdown-preview-view th,  
+.markdown-preview-view td {  
+  padding: 6px 0; /* 为表格单元格增加适当的内边距 */  
+  text-align: center; /* 表格内容居中 */  
+}  
+
+
+
+
+
+
+

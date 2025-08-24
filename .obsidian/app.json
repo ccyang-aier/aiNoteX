@@ -1,0 +1,22 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "attachmentFolderPath": "./imgs",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "showIndentGuide": false,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "foldHeading": false,
+  "autoPairMarkdown": false,
+  "smartIndentList": true
+}

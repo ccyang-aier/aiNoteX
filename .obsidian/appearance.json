@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "LXGW WenKai Mono",
+  "textFontFamily": "LXGW WenKai Mono",
+  "monospaceFontFamily": "LXGW WenKai Mono",
+  "enabledCssSnippets": [
+    "custom",
+    "callout"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSize": 17
+}
