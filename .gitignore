@@ -1,0 +1,41 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# tools
+.idea
+.obsidian
+.vscode
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+bin/
+
+# Go workspace file
+go.work
+go.work.sum
+.go-version
+
+.DS_Store
+__pycache__
+*.xml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environment directory
+.venv
+
+# Jupyter notebook
+.ipynb_checkpoints/
