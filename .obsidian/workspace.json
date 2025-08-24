@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/2025.08/TuoboRAG.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TuoboRAG"
+              "title": "README"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/2025.08/TuoboRAG.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "TuoboRAG 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/2025.08/TuoboRAG.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TuoboRAG 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -206,13 +206,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "c106f47d1718efc7",
+  "active": "adec9b06def1314e",
   "lastOpenFiles": [
+    "papers/2025.08/TuoboRAG.md",
     "ideas/2025",
     "ideas",
     "papers/2025.08/imgs/Pasted image 20250825000934.png",
     "papers/2025.08/FlashBack.md",
-    "papers/2025.08/TuoboRAG.md",
     "papers/2025.08/imgs/Pasted image 20250824234429.png",
     "papers/2025.08/imgs/Pasted image 20250824234348.png",
     "papers/2025.08/PRAG(Parametric Retrieval Augmented Generation).md",
@@ -240,7 +240,6 @@
     "AI chat in Sider (1).txt",
     "blogs/推理加速系列",
     "blogs/从零实现推理引擎系列",
-    "blogs/推理加速系列",
     "训推/DeepSeek/模型架构及原理研读.md",
     "训推/DeepSeek/部署文档.md",
     "训推/Python/叩门篇（语法、用例）.md",
