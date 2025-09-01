@@ -4,49 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "b7abe3b481fd0dfa",
+        "id": "4dbbec29859b9fca",
         "type": "tabs",
         "children": [
           {
-            "id": "f439c652d03b79cb",
+            "id": "4b30776c073254b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/2025.08/eLLM.md",
+                "file": "blogs/温故知新/memory bound和compute bound.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eLLM"
+              "title": "memory bound和compute bound"
             }
           },
           {
-            "id": "adec9b06def1314e",
+            "id": "954a35c40cab69bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/Zone-Based PageAttention.md",
+                "file": "projects/tmatrix/sparse kvcache/技术分析及实施.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zone-Based PageAttention"
+              "title": "技术分析及实施"
             }
           },
           {
-            "id": "56b01d3219d45b04",
+            "id": "494acdff11f5c6de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/SLA-Aware Inference Service Migration.md",
+                "file": "projects/bak1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SLA-Aware Inference Service Migration"
+              "title": "bak1"
+            }
+          },
+          {
+            "id": "887570215bf5b293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/tmatrix/资料-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "资料-1"
+            }
+          },
+          {
+            "id": "fa21a44510049eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/tmatrix/bak-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bak-2"
+            }
+          },
+          {
+            "id": "5502f5ac9802305e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects/bak-3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bak-3"
             }
           }
         ],
@@ -156,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas/Zone-Based PageAttention.md",
+                "file": "projects/tmatrix/sparse kvcache/技术分析及实施.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Zone-Based PageAttention 的大纲"
+              "title": "技术分析及实施 的大纲"
             }
           },
           {
@@ -220,10 +262,25 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "adec9b06def1314e",
+  "active": "954a35c40cab69bb",
   "lastOpenFiles": [
-    "ideas/SLA-Aware Inference Service Migration.md",
+    "projects/tmatrix/资料-1.md",
+    "projects/bak1.md",
+    "projects/tmatrix/sparse kvcache/技术分析及实施.md",
+    "projects/tmatrix/bak-2.md",
+    "projects/bak-3.md",
+    "blogs/大纲.md",
+    "blogs/温故知新/memory bound和compute bound.md",
+    "projects/tmatrix/sparse kvcache/imgs/Pasted image 20250831004332.png",
+    "projects/tmatrix/sparse kvcache/imgs/Pasted image 20250831004327.png",
+    "blogs/温故知新",
+    "projects/tmatrix/sparse kvcache/imgs/Pasted image 20250830232503.png",
+    "projects/tmatrix/sparse kvcache/imgs",
+    "papers/2025.08/ShadowKV.md",
+    "projects/tmatrix/sparse kvcache",
+    "projects/tmatrix",
     "ideas/Zone-Based PageAttention.md",
+    "ideas/SLA-Aware Inference Service Migration.md",
     "ideas/imgs/Pasted image 20250827002749.png",
     "ideas/imgs",
     "README.md",
@@ -240,32 +297,18 @@
     "papers/2025.08/CAG.md",
     "papers/2025.08/imgs/Pasted image 20250824180217.png",
     "papers/2025.08/imgs/Pasted image 20250824171756.png",
-    "blogs/大纲.md",
     "blogs/新的技术方向.md",
     "projects",
     "blogs/从零实现推理引擎系列/从model.generate()开始说起.md",
     "LICENSE",
     "blogs/杂记/个人推广网站设计.md",
-    "papers/2025.08/imgs/Pasted image 20250822074515.png",
-    "papers/2025.08/imgs/Pasted image 20250822073342.png",
-    "papers/2025.08/imgs/Pasted image 20250822073023.png",
     "papers/2025.08/imgs",
-    "papers/2025.08",
-    "blogs/杂记",
     "blogs/从零实现推理引擎系列/实现多模态缓存.md",
     "2025/indexer.md",
-    "AI chat in Sider (1).txt",
-    "blogs/推理加速系列",
     "训推/DeepSeek/模型架构及原理研读.md",
     "训推/DeepSeek/部署文档.md",
     "训推/Python/叩门篇（语法、用例）.md",
     "训推/Python/登堂篇（原理、设计）.md",
-    "训推/PyTorch/显存管理原理.md",
-    "训推/SGLang/SGLang原码分析.md",
-    "训推/vLLM/vLLM社区跟进.md",
-    "训推/vLLM/vLLM源码分析.md",
-    "训推/vLLM/vLLM源码分析(v82,新).md",
-    "训推/vLLM/vLLM的分布式架构设计.md",
-    "训推/vLLM/tp.md"
+    "训推/PyTorch/显存管理原理.md"
   ]
 }
